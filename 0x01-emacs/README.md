@@ -1,0 +1,1 @@
+The objective of this project is that one can learn to use Emacs commands and thus be able to help others.
